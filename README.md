@@ -29,10 +29,9 @@ _README-for-Everyone_ will generate a professional README for developers based o
     - **THEN** I am taken to the corresponding section of the README.
 </br></br>
 
-## `Mock-up`
 
-## `Deployed Application`
-[README-for-Everyone]()
+## `Video Demonstration`
+[README-for-Everyone](https://app.screencastify.com/manage/videos/tgr0YU4B9yfOhpjNeUlv)
 ## `License`
 [MIT](https://github.com/MrBrandtCox/README-for-Everyone/blob/main/LICENSE)
 
